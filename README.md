@@ -17,7 +17,6 @@ This repository contains the second phase of the Generation Expansion Planning (
 
 ## Repository Structure
 - `/Code`: All MATLAB scripts and model files.
-- `/Data`: Input parameters and scenario settings in `.mat` or `.xlsx` format.
 - `/Plots`: Generated graphs, including energy mix evolution and cost distribution charts.
 - `/Report`: Technical documentation of the model formulation and simulation results.
 
