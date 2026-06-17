@@ -1,3 +1,7 @@
+![Method](https://img.shields.io/badge/Method-MILP_Optimization-blue?style=for-the-badge&logo=mathworks&logoColor=white)
+![Tool](https://img.shields.io/badge/Tool-MATLAB-orange?style=for-the-badge&logo=matlab&logoColor=white)
+![Analysis](https://img.shields.io/badge/Goal-Cost_Minimization-red?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=github&logoColor=white)
 # Electrical Energy Analysis: Generation Expansion Planning (Phase 2)
 
 ## Project Overview
